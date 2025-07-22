@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2025-01-20",
+        "category": "food",
+        "amount": 5000.0,
+        "description": "hellooooooo",
+        "transaction_type": "income"
+    },
+    {
+        "date": "2025-01-20",
+        "category": "food",
+        "amount": 500.0,
+        "description": "hellooooooo",
+        "transaction_type": "income"
+    },
+    {
+        "date": "2025-01-21",
+        "category": "FOOD",
+        "amount": 500.0,
+        "description": "CHOLE",
+        "transaction_type": "expense"
+    },
+    {
+        "date": "2025-06-30",
+        "category": "FOOD",
+        "amount": 500.0,
+        "description": "CHOLE",
+        "transaction_type": "expense"
+    },
+    {
+        "date": "2025-06-30",
+        "category": "Travel",
+        "amount": 3000.0,
+        "description": "Panahala treck",
+        "transaction_type": "expense"
+    },
+    {
+        "date": "2025-07-22",
+        "category": "FOOD",
+        "amount": 5009.0,
+        "description": "chicken",
+        "transaction_type": "expense"
+    }
+]
